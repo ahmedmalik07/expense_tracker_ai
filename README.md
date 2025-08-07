@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # expense_tracker_ai
 AI Expense Tracker using NEXTJS, Clerk, Neon, TailwindCSS
 =======
+=======
+>>>>>>> 89f469e694d85faca7769db2d91a9612749e6047
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,4 +41,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<<<<<<< HEAD
 >>>>>>> 89f469e (Initial commit from Create Next App)
+=======
+>>>>>>> 89f469e694d85faca7769db2d91a9612749e6047

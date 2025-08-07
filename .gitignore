@@ -32,12 +32,19 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+<<<<<<< HEAD
 .env
+=======
+
+>>>>>>> 89f469e694d85faca7769db2d91a9612749e6047
 # vercel
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 
 /app/generated/prisma
+=======
+>>>>>>> 89f469e694d85faca7769db2d91a9612749e6047
